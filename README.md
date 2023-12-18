@@ -9,7 +9,7 @@
 
 - 📄 My resume https://shorturl.at/cBDV2
 
-- ⚡ Fun fact **I'm a funny and sleepy guy at the same time**
+- ⚡ Fun fact **I'm both funny and sleepy guy at the same time**
 
 - 🧠 I'm interested in **Back-end and Full-stack development**
   
