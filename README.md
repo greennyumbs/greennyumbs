@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <br/>
 
-- 🌱 I’m currently learning **React, Next.js, Golang and other Back-end tools**
+- 🌱 I’m currently learning **Golang and other Back-end tools**
 
 - 📫 Reach me **thanatat.sinc@hotmail.com**
 
@@ -27,7 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,c,py,php,mysql,firebase,mongodb,nodejs,figma,git,arduino" />
+    <img src="https://skillicons.dev/icons?i=nestjs,redis,express,dotnet,js,ts,flutter,react,html,css,go,dart,c,cs,py,php,mysql,firebase,supabase,mongodb,nodejs,docker,kubernetes,git&perline=8" />
   </a>
 </p>
 
