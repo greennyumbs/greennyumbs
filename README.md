@@ -7,7 +7,7 @@
 
 - 📫 Reach me **thanatat.sinc@hotmail.com**
 
-- 💻 My Portfolio [https://shorturl.at/cBDV2](https://thanatat.vercel.app/)
+- 💻 My Portfolio https://thanatat.vercel.app
 
 - 📄 My resume https://shorturl.at/cBDV2
 
