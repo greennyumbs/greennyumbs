@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,redis,express,dotnet,js,ts,flutter,react,nextjs,angular,tailwind,go,dart,c,cs,py,mysql,postgres,sqlite,firebase,supabase,mongodb,nodejs,docker,kubernetes,git&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nestjs,redis,express,dotnet,js,ts,flutter,react,nextjs,angular,tailwind,go,dart,c,cs,py,mysql,postgres,sqlite,firebase,supabase,mongodb,nodejs,docker,kubernetes,git&perline=13" />
   </a>
 </p>
 
